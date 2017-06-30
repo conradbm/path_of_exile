@@ -1,0 +1,1 @@
+<div class="displayoffer " data-username="(.*?)" data-sellcurrency="(.*?)" data-sellvalue="(.*?)" data-buycurrency="(.*?)" data-buyvalue="(.*?)" data-ign="(.*?)".*?(?:data-stock="(\d*)")*>
